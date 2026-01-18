@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="container">
         <a
           className="navbar-brand text-uppercase"
-          href="#"
+          href="index.html"
           style={{
             fontWeight: "bold",
             letterSpacing: "-1px",
