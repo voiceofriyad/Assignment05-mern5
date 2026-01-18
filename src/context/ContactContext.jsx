@@ -16,7 +16,9 @@ export const ContactProvider = ({ children }) => {
   const [searchTerm, setSearchTerm] = useState("");
   const [filterOption, setFilterOption] = useState("default");
 
-  const API_URL = "http://localhost:3000/contacts";
+  // const API_URL = "http://localhost:3000/contacts";
+  const API_URL =
+    "https://my-json-server.typicode.com/voiceofriyad/Assignment05-mern5/contacts";
 
   const fetchContacts = async () => {
     try {

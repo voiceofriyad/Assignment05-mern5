@@ -8,6 +8,15 @@
       "phone": "98989898",
       "address": "Sample Address",
       "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "firstName": "Frederick",
+      "lastName": "Jerde",
+      "email": "frederick@test.com",
+      "phone": "54545454",
+      "address": "456 Park Avenue",
+      "createdAt": "2024-01-02T00:00:00.000Z"
     }
   ]
 }
