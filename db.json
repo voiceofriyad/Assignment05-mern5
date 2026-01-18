@@ -1,0 +1,13 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "firstName": "Alfred",
+      "lastName": "Kuhlman",
+      "email": "alfred@test.com",
+      "phone": "98989898",
+      "address": "Sample Address",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
