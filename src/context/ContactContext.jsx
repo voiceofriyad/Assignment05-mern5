@@ -18,7 +18,8 @@ export const ContactProvider = ({ children }) => {
 
   // const API_URL = "http://localhost:3000/contacts";
   const API_URL =
-    "https://my-json-server.typicode.com/voiceofriyad/Assignment05-mern5/contacts";
+    // "https://my-json-server.typicode.com/voiceofriyad/Assignment05-mern5/contacts";
+    "https://assignment05-database-mern5.onrender.com/users";
 
   const fetchContacts = async () => {
     try {
